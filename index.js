@@ -57,13 +57,13 @@ const stringSession = new StringSession(
   // const result = await client.sendMessage(peer, { message: messageText });
 
   // GET PEER ID
-  // const peer = await client.getPeerId("@londoner71");
+  // const peer = await client.getPeerId("me");
   // console.log("peer:", peer);
 
   // CHANNEL
   // const result = await client.invoke(
   //   new Api.channels.GetChannels({
-  //     id: ["tgtestchannl"],
+  //     id: ["tg_channel"],
   //   })
   // );
 
