@@ -28,8 +28,10 @@ const apiHash = process.env.API_HASH;
 
 // stringSession
 const stringSession = new StringSession(
-  "1BAAOMTQ5LjE1NC4xNjcuOTEAUJphfN9EanVody/MwyNOryiFcjSanc8HhEooyhSCE1YcGhDOodwEgRb3jlXGOM9gb4csxrFaX3GV44uXHdAJBLsFh5o2639MgPA4NSy96jfpi+5Ll4q5VnjiKQdgjJgV/fWqNKNQ5Smnzt/oB25mC/ZF4WN2cfRrdzD/+R46OEmVxLpddXBD3Vwl8XxBejUxjibLPoiTJjtcnJs5aOo/Ihfb12DdtykEDsY63BjnJHxm+NBMFD75H4CQD4D9rKPCS9CmTROkdhG3N17BkNcXr5fp+oPfck01XQjdgihOkHeZa2DUnodFqUS0ziSuvZbBGTuYtC8y/wINitbZ/GGUZm4="
+  "1BAAOMTQ5LjE1NC4xNjcuOTEAUBUguQYZUxXW2LARvZkOWb9jW7ISprUZZ0iE5IY3GLoKUoixKRhhjGWJMmqLLYR/7llFkz8IjiEhMfNT6ojSByXXftYBMdM4ONlaTUSLJICmhzKJ5C5Ou2wr+iMBJc9B9qRXGOTIWrq3w5kt0WTQlDnBjzqWJx/J5q841xm/Wq+Y2+1bw7Wmu5xESW/yPt37bQ4GbVTRdr1wnmxRWzUSO0cGcG/WbRKx0mXN9BItOfkx/6eIntTJOluYzoRnDXiukQc8JOjbNH6UhsO3T05fiyFybr7A1NrjqR5uYoyCFzXzBZcDOSpIkCjHwA+trsf1Azdt5Za8Ttj5bzjoTfO1I8U="
 );
+// 1BAAOMTQ5LjE1NC4xNjcuOTEAUBUguQYZUxXW2LARvZkOWb9jW7ISprUZZ0iE5IY3GLoKUoixKRhhjGWJMmqLLYR/7llFkz8IjiEhMfNT6ojSByXXftYBMdM4ONlaTUSLJICmhzKJ5C5Ou2wr+iMBJc9B9qRXGOTIWrq3w5kt0WTQlDnBjzqWJx/J5q841xm/Wq+Y2+1bw7Wmu5xESW/yPt37bQ4GbVTRdr1wnmxRWzUSO0cGcG/WbRKx0mXN9BItOfkx/6eIntTJOluYzoRnDXiukQc8JOjbNH6UhsO3T05fiyFybr7A1NrjqR5uYoyCFzXzBZcDOSpIkCjHwA+trsf1Azdt5Za8Ttj5bzjoTfO1I8U=
+// const stringSession = new StringSession("");
 
 (async () => {
   // ********** AUTH PROCESS **********
